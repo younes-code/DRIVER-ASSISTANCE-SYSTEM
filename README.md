@@ -7,4 +7,6 @@ to that the system is using the following tools:
 ![alt text](https://github.com/younes-code/DRIVER-ASSISTANCE-SYSTEM/blob/main/warmy.PNG)
 
 You can check testing videos in the test foalder 
-![alt text](https://github.com/younes-code/DRIVER-ASSISTANCE-SYSTEM/blob/main/test/sleep.mp4)
+![alt text](https://github.com/younes-code/DRIVER-ASSISTANCE-SYSTEM/blob/main/Tests/sleep.mp4)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/younes-code/DRIVER-ASSISTANCE-SYSTEM/blob/main/Tests/sleep.mp4)
